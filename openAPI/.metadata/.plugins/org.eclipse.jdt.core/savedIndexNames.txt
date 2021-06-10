@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Home\Documents\건국대\[2021-1]건국대학교\오픈소스SW입문\OpenSrcSw\openAPI\.metadata\.plugins\org.eclipse.jdt.core
